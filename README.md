@@ -1,8 +1,8 @@
 # The World — 27 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261127)
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261127-orange)](https://make.fun/bounty/news-image-20261127)
-[![make.fun](https://img.shields.io/badge/make.fun-Friday%2027%20November%202026-green)](https://make.fun/bounty/news-image-20261127)
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/norv33/news-image-27-nov/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/norv33/news-image-27-nov/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
 
 A morning-edition front page summing up the world's news of **Friday, 27 November 2026** in one image: a sunrise masthead, six headline stories from six regions and fields, and an "ALSO TODAY" strip. The image is drawn from scratch with Python (PIL primitives only — no photos, no clipart, no copied artwork) and copied to `/output/entry.png` by a small Node 22 program (`main.ts`, standard library only).
 
